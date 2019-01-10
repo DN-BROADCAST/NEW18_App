@@ -8,5 +8,4 @@ https://itunes.apple.com/us/app/new18/id1367314354?mt=8
 
 Android
 
-https://play.google.com/store/apps/details?id=com.dnbroadcast.new18&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
-
+https://play.google.com/store/apps/details?id=com.dnbroadcast.new18
